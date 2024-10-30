@@ -13,7 +13,7 @@
   <li>Deverá haver um cabeçalho (header) fixo, com links para cada seção descrita anteriormente, logo, nome do site e slogan;</li>
   <li>A seção de pratos deverá conter os tipos de pratos: entradas, pratos principais, sobremesas e bebidas, com pelo menos três itens em cada tipo;</li>
   <li>Rodapé (footer) com pelo menos o link para o repositório do projeto no GitHub;</li>
-  <li>O código deverá estar organizado (identação, sem espaços em branco desnecessários, mais de uma quebra de linha consecutivas...)</li>
+  <li>O código deverá estar organizado (identação, sem espaços em branco desnecessários, mais de uma quebra de linha consecutivas...).</li>
 </ul>
 <p>Obs.: não é necessário que o conteúdo da página, incluíndo imagens, seja real, poder-se-á utilizar "lorem ipsum" (conteúdo fictício, template), pois o foco maior está na interface.</p>
 
@@ -51,3 +51,10 @@
     }
   </code>
 </pre>
+
+<h2>Exemplos para se Inspirar</h2>
+<ul>
+  <li><a href="https://www.tripadvisor.com.br/TravelersChoice-Restaurants">Exemplo 1</a></li>
+  <li><a href="https://www.msccruzeiros.com.br/a-bordo/refeicoes-e-bebidas/buffet-e-restaurante">Exemplo 2</a></li>
+  <li><a href="https://disneyworld.disney.go.com/pt-br/dining/snack-dine-enjoy/">Exemplo 3</a></li>
+</ul>
