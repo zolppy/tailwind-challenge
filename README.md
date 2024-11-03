@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Desafio de Tailwind CSS: Página de Menu de Restaurante</h1>
-  <p>Este projeto consiste da implementação de uma página web estática (não é necessário o uso de JavaScript) para prática e aperfeiçoamento de habilidades no uso do <em>framework</em> Tailwind CSS.</p>
+  <p>Consiste de um desafio de implementação de uma página web estática (não é necessário o uso de JavaScript) para prática e aperfeiçoamento de habilidades no uso do <em>framework</em> Tailwind CSS.</p>
 </div>
 
 <h2>Requisitos Mínimos</h2>
@@ -53,8 +53,4 @@
 </pre>
 
 <h2>Exemplos para se Inspirar</h2>
-<ul>
-  <li><a href="https://www.tripadvisor.com.br/TravelersChoice-Restaurants">Exemplo 1</a></li>
-  <li><a href="https://www.msccruzeiros.com.br/a-bordo/refeicoes-e-bebidas/buffet-e-restaurante">Exemplo 2</a></li>
-  <li><a href="https://disneyworld.disney.go.com/pt-br/dining/snack-dine-enjoy/">Exemplo 3</a></li>
-</ul>
+<p>:hammer: Seção em construção...</p>
