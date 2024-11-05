@@ -10,7 +10,7 @@
   <li>O HTML deve ser semântico (uso de tags semânticas);</li>
   <li>A página deverá conter pelo menos duas seções, seção de pratos e seção de contato;</li>
   <li>O site deverá ser SPA (<em>Single Page Application</em>), ou seja, de uma única página;</li>
-  <li>Deverá haver um cabeçalho (header) fixo, com links para cada seção descrita anteriormente, logo, nome do site e slogan;</li>
+  <li>Deverá haver um cabeçalho (header) fixo, com pelo menos links para cada seção descrita anteriormente, logo e nome do site;</li>
   <li>A seção de pratos deverá conter os tipos de pratos: entradas, pratos principais, sobremesas e bebidas, com pelo menos três itens em cada tipo;</li>
   <li>Rodapé (footer) com pelo menos o link para o repositório do projeto no GitHub;</li>
   <li>O código deverá estar organizado (identação, sem espaços em branco desnecessários, mais de uma quebra de linha consecutivas...).</li>
@@ -52,5 +52,8 @@
   </code>
 </pre>
 
-<h2>Exemplos para se Inspirar</h2>
-<p>:hammer: Seção em construção...</p>
+<h2><em>Cheat Sheet</em> do Tailwind CSS</h2>
+<p>
+  Link com exemplo de várias classes utilitárias do framework, divididas por
+  seções: <a href="https://nerdcave.com/tailwind-cheat-sheet" target="_blank">Tailwind Cheat Sheet</a>
+</p>
